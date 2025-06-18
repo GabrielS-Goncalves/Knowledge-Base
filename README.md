@@ -18,8 +18,8 @@ Esta base foi criada com os seguintes propósitos:
 
 A base está organizada em seções temáticas:
 
-- [Network](./Linux)
+- [Linux](./Linux)
   
-- [Linux]()
+- [Network]()
   
 - [Windows]()
