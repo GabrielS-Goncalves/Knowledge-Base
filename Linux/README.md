@@ -1,6 +1,6 @@
 # 🐧 Linux Knowledge
 
-🧭 Essas são as seções conhecimendo em linux:
+🧭 Dividi essa seção de Linux em três:
 
 - Seção para Explicações:
 
